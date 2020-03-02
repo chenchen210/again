@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/chenchen210/again/issues"
   },
-  "homepage": "https://github.com/chenchen210/again#readme"
+  "homepage": "https://github.com/chenchen210/again#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
 }
